@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OnlyFans</title>
+    <style>
+        body {
+            margin: 0;
+            background: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        img {
+            max-width: 90%;
+            max-height: 90vh;
+        }
+    </style>
+</head>
+
+<body>
+    <img src="middlefinger.jpg" alt="Surprise">
+</body>
+</html>
